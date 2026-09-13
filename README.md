@@ -6,7 +6,7 @@ biostatistical analysis of a synthetic diabetes dataset using ordinal logistic r
 ## Research Question
 
 ** Which demographic, anthropometric, clinical, and lifestyle factors are associated with higher odds of being in a more severe
-    HbA1c-defined glycemic status category (normal → prediabetes → diabetes)?**
+    HbA1c-defined glycemic status category (normal -> prediabetes -> diabetes)?**
 
 ## Dataset Note
 
